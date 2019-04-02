@@ -1,0 +1,8 @@
+This extension and skin is due to Matthew Wall and is copyright by him. The
+details are in the file "cmon-readme.txt" which is a copy of his original 
+"readme.txt".
+
+The only change to date (April 2019) is the name of the public_html directory
+where the cmon files are. Eventually the extension will be modified for
+Raspberry Pi (requires schema changes) and the skin will be subsumed by
+the weewx-orcas-skin skin.
