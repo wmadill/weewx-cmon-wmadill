@@ -6,10 +6,11 @@ extension and skin. The version I used is at
 http://lancet.mit.edu/mwall/projects/weather/releases/weewx-cmon-0.16.tgz.
 
 ## Changes 
-The only change to date (April 2019) is the name of the public_html directory
-where the cmon files are. Eventually the extension will be modified for
-Raspberry Pi (requires schema changes) and the skin will be subsumed by
-the weewx-orcas-skin skin.
+The only changes to date (April 2019) are the name of the public_html directory
+where the cmon files are and admusting the frequency on non-daily image
+generation. Eventually the extension will be modified for Raspberry Pi
+(requires schema changes) and the skin will be subsumed by the
+weewx-orcas-skin skin.
 
 ## Installation
 Install as described in "cmon-readme.txt", Matthew's original readme.txt. I
